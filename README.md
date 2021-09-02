@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anubhav06
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning C++ and C for CP
+- 🌱 I’m currently learning WebDev
 - 💞️ I’m looking to collaborate on GameDev
 - 📫 How to reach me DM
 
