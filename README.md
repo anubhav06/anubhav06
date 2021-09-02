@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anubhav06
-- 👀 I’m interested in basically all fields of computer science
+- 👀 I’m interested in Development
 - 🌱 I’m currently learning C++ and C for CP
 - 💞️ I’m looking to collaborate on GameDev
 - 📫 How to reach me DM
