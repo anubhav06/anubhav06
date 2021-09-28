@@ -5,7 +5,7 @@
 <a href="https://twitter.com/anubhav_gupta06">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:anubhav06@gmail.com">
+<a href="mailto:mail.anubhav06@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
