@@ -12,7 +12,7 @@
 <br/>
 
 ### About Me 🚀
-🎓 I’m undergraduate pursuing my Bachelors in Technology </br>
+🎓 I’m an undergraduate pursuing my Bachelors in Technology </br>
 👨‍💻  I'm passionate about Web Dev, Game Dev & I enjoy learning new things. </br>
 
 <!---
