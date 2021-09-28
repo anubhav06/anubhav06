@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @anubhav06
-- 👀 I’m interested in Development
-- 🌱 I’m currently learning WebDev
-- 💞️ I’m looking to collaborate on GameDev
-- 📫 How to reach me DM
-
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Anubhav!
 <a href="https://www.linkedin.com/in/anubhav-gupta06/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -17,11 +11,11 @@
 
 <br/>
 
-<!---
 ### About Me 🚀
 🎓 I’m undergraduate pursuing my Bachelors in Technology </br>
 👨‍💻  I'm passionate about Web Dev, Game Dev & I enjoy learning new things. </br>
 
+<!---
 ![Anubhav's github stats](https://github-readme-stats.vercel.app/api?username=anubhav06&show_icons=true&hide_border=true)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anubhav06.anubhav06)
