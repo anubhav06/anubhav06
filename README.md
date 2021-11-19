@@ -14,7 +14,7 @@
 ### About Me 🚀
 🎓 I’m an undergraduate pursuing my Bachelors in Technology </br>
 👨‍💻  I'm passionate about Web Dev, Game Dev & I enjoy learning new things. </br>
-
+<!-- 
 <div >
 
 <h3> My Projects 👀 </h3>
@@ -52,7 +52,7 @@
   </tbody>
 </table>
 
-</div>
+</div> -->
 
 <br>
 
