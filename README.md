@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/anubhav-gupta06/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/anubhav_gupta06">
+<a href="https://twitter.com/anubhavstwt">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:mail.anubhav06@gmail.com">
