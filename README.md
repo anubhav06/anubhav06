@@ -17,9 +17,11 @@
 👨‍💻  I'm passionate about Web Dev, Game Dev & I enjoy learning new things. </br>
 
 
-<br>
 
-![Anubhav's github stats](https://github-readme-stats.vercel.app/api?username=anubhav06&show_icons=true&hide_border=true)
-<br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=anubhav06.anubhav06)
-
+## 📈 Stats
+<p>
+	
+  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=anubhav06&show_icons=true&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhav06&show_icons=true&theme=tokyonight&locale=en&layout=compact" /></br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=anubhav06.anubhav06" />
+</p>
