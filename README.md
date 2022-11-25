@@ -14,7 +14,7 @@
 
 ### About Me 🚀
 🎓 I’m an undergraduate pursuing my Bachelors in Technology </br>
-👨‍💻  I'm passionate about Web Dev, Game Dev & I enjoy learning new things. </br>
+👨‍💻  I'm passionate about Web Dev & DevOps & I enjoy learning new things. </br>
 
 
 
